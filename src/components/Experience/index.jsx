@@ -48,7 +48,7 @@ const Experience = () => {
                   CSS
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
-                  Intermediário
+                  Experiente
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
@@ -72,7 +72,7 @@ const Experience = () => {
                   React.js
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
-                  Intermediário
+                  Experiente
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
@@ -96,7 +96,7 @@ const Experience = () => {
                   Next.js
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
-                  Iniciante
+                  Intermediário
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
@@ -108,7 +108,7 @@ const Experience = () => {
                   Chackra UI
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
-                  Iniciante
+                  Intermediário
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
@@ -140,7 +140,7 @@ const Experience = () => {
                   TypeScript
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
-                  Intermediário
+                  Experiente
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
@@ -152,7 +152,7 @@ const Experience = () => {
                   Express
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
-                  Intermediário
+                  Experiente
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
@@ -176,7 +176,7 @@ const Experience = () => {
                   Node.js
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
-                  Intermediário
+                  Experiente
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
