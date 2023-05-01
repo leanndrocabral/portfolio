@@ -43,7 +43,7 @@ const data = [
   {
     id: 3,
     image: Image03,
-    title: "Kenzie Burger",
+    title: "Burguer Kenzie",
     technologies:
       "React | CSS | Axios",
     vercel: "https://kennzieburger.vercel.app/",
