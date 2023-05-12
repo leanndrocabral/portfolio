@@ -53,7 +53,7 @@ const About = () => {
             </AboutContainerContentCard>
           </AboutContainerContentCards>
           <AboutParagraph>
-            Tenho 20 anos e sou um programador Full Stack Júnior, moro em São Bento do Sapucaí - SP. Desde de cedo envolvido com a tecnologia e sempre buscando melhorar, aprender e manter boas práticas sobre esse universo da programação. Atualmente aprendendo Angular e posteriormente pretendo aprender C#.
+            Olá, eu sou o Leandro tenho 20 anos e moro em São Bento do Sapucaí - SP. Sou um desenvolvedor com experiência em construção de API, desenvolvimento de projetos utilizando Django REST Framework, Python, Node.js, Angular, React, Typescript, vivências em utilização de Metodologia ágil (Scrum, Kanban, Trello), atuação em projetos como Desenvolvedor Frontend e Backend.
           </AboutParagraph>
         </AboutContainerContent>
       </AboutContainer>
