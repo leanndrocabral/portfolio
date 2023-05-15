@@ -16,7 +16,7 @@ import {
 import Image01 from "../../assets/img/lista-de-contatos.png";
 import Image02 from "../../assets/img/kenzie-hub.png";
 import Image03 from "../../assets/img/hamburgueria-da-kenzie.png";
-import Image04 from "../../assets/img/bee-bot.png";
+import Image04 from "../../assets/img/discord.jpg";
 
 import { HiOutlineExternalLink } from "react-icons/hi";
 import { FaGithub } from "react-icons/fa";
