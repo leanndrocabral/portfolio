@@ -17,7 +17,7 @@ import {
 import { FaAward } from "react-icons/fa";
 import { VscFolderLibrary } from "react-icons/vsc";
 
-import Me from "../../assets/img/me-about.png";
+import Me from "../../assets/img/me-about.jpg";
 
 const About = () => {
   return (
@@ -53,7 +53,9 @@ const About = () => {
             </AboutContainerContentCard>
           </AboutContainerContentCards>
           <AboutParagraph>
-            Olá, eu sou o Leandro tenho 20 anos e moro em São Bento do Sapucaí - SP. Sou um desenvolvedor com experiência em construção de API, desenvolvimento de projetos utilizando Django REST Framework, Python, Node.js, Angular, React, Typescript, vivências em utilização de Metodologia ágil (Scrum, Kanban, Trello), atuação em projetos como Desenvolvedor Frontend e Backend.
+            Olá, eu sou o Leandro, tenho 20 anos e moro em São Bento do Sapucaí - SP.
+            Sou desenvolvedor há 1 ano e estou sempre buscando aprender, melhorar e manter boas práticas.
+            Tenho experiência em construção de API, desenvolvimento de projetos utilizando Django REST Framework, Python, Node.js, Angular, React, Typescript, entre outros.
           </AboutParagraph>
         </AboutContainerContent>
       </AboutContainer>
