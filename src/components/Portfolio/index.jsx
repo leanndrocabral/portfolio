@@ -15,8 +15,9 @@ import {
 } from "./styles";
 import Image01 from "../../assets/img/lista-de-contatos.png";
 import Image02 from "../../assets/img/kenzie-hub.png";
-import Image03 from "../../assets/img/hamburgueria-da-kenzie.png";
-import Image04 from "../../assets/img/discord.jpg";
+import Image03 from "../../assets/img/burguer-kenzie.png";
+import Image04 from "../../assets/img/bee-bot.jpg";
+import Image05 from "../../assets/img/user-crud.png";
 
 import { HiOutlineExternalLink } from "react-icons/hi";
 import { FaGithub } from "react-icons/fa";
@@ -60,6 +61,16 @@ const data = [
     link: "https://discord.com/oauth2/authorize?client_id=1104815029540356136&permissions=8&scope=bot%20applications.commands",
     github:
       "https://github.com/leanndrocabral/bee-bot",
+  },
+  {
+    id: 5,
+    image: Image05,
+    title: "User CRUD",
+    description:
+      "API básica desenvolvida com o intuito de criar, listar, atualizar e deletar usuários, com rotas de login e listar usuário logado.",
+    link: "https://userccrud.vercel.app/",
+    github:
+      "https://github.com/leanndrocabral/user-crud-nestjs",
   },
 ];
 

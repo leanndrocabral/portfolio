@@ -125,6 +125,18 @@ const Experience = () => {
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
 
+            <ExperienceContainerDetails>
+              <BsPatchCheckFill className="experience__details-icon" />
+              <ExperienceContainerDetailsWrapper>
+                <ExperienceContainerDetailsFirstText>
+                  Socket.io
+                </ExperienceContainerDetailsFirstText>
+                <ExperienceContainerDetailsSecondText>
+                  Iniciante
+                </ExperienceContainerDetailsSecondText>
+              </ExperienceContainerDetailsWrapper>
+            </ExperienceContainerDetails>
+
           </ExperienceContent>
         </ExperienceContainerFrontEnd>
 
@@ -229,11 +241,11 @@ const Experience = () => {
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
 
-             <ExperienceContainerDetails>
+            <ExperienceContainerDetails>
               <BsPatchCheckFill className="experience__details-icon" />
               <ExperienceContainerDetailsWrapper>
                 <ExperienceContainerDetailsFirstText>
-                  Socket.io
+                  Nest.js
                 </ExperienceContainerDetailsFirstText>
                 <ExperienceContainerDetailsSecondText>
                   Iniciante
