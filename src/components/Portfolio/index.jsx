@@ -13,66 +13,12 @@ import {
   PortfolioWrapper,
   SecondText,
 } from "./styles";
-import Image01 from "../../assets/img/lista-de-contatos.png";
-import Image02 from "../../assets/img/kenzie-hub.png";
-import Image03 from "../../assets/img/burguer-kenzie.png";
-import Image04 from "../../assets/img/bee-bot.jpg";
-import Image05 from "../../assets/img/user-crud.png";
+import { data } from "../../database/database";
 
 import { HiOutlineExternalLink } from "react-icons/hi";
 import { FaGithub } from "react-icons/fa";
 
-const data = [
-  {
-    id: 1,
-    image: Image01,
-    title: "Lista de Contatos",
-    description:
-      "Aplicação web desenvolvida com o intuito de criar uma lista telefônica e registrar contatos.",
-    link: "https://listadeconntatos.vercel.app/",
-    github: "https://github.com/leanndrocabral/projeto-fullstack/",
-  },
-  {
-    id: 2,
-    image: Image02,
-    title: "Kenzie Hub",
-    description:
-      "Aplicação web desenvolvida com o intuito de registrar e listar tecnologias web.",
-    link: "https://kennziehub.vercel.app/",
-    github:
-      "https://github.com/leanndrocabral/react-kenzie-hub/tree/kenziehub-typescript/cadastro-e-login/",
-  },
-  {
-    id: 3,
-    image: Image03,
-    title: "Burguer Kenzie",
-    description:
-      "Aplicação web desenvolvida com o intuito de criar uma hamburgueria on-line.",
-    link: "https://kennzieburger.vercel.app/",
-    github:
-      " https://github.com/leanndrocabral/react-hamburgueria-kenzie/tree/main/hamburgueria-kenzie/",
-  },
-  {
-    id: 4,
-    image: Image04,
-    title: "Bee Bot",
-    description:
-      "Bot de Discord desenvolvido com o intuito de se divertir e com capacidade de reproduzir música nos canais de voz.",
-    link: "https://discord.com/oauth2/authorize?client_id=1104815029540356136&permissions=8&scope=bot%20applications.commands",
-    github:
-      "https://github.com/leanndrocabral/bee-bot",
-  },
-  {
-    id: 5,
-    image: Image05,
-    title: "User CRUD",
-    description:
-      "API básica desenvolvida com o intuito de criar, listar, atualizar e deletar usuários, com rotas de login e listar usuário logado.",
-    link: "https://userccrud.vercel.app/",
-    github:
-      "https://github.com/leanndrocabral/user-crud-nestjs",
-  },
-];
+
 
 const Portfolio = () => {
   return (

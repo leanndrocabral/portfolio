@@ -89,9 +89,9 @@ const Contact = () => {
           <ContactOption>
             <BsWhatsapp className="contact-option-icon" />
             <ContactOptionFirstText>WhatsApp</ContactOptionFirstText>
-            <ContactOptionSecondText>+55 12 93618-1507</ContactOptionSecondText>
+            <ContactOptionSecondText>+55 12 99623-8196</ContactOptionSecondText>
             <ContactOptionLink
-              href="https://wa.me/5512936181507"
+              href="https://wa.me/5512996238196"
               target="_blank"
             >
               Envie uma mensagem
