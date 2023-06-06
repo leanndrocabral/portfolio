@@ -18,8 +18,6 @@ import { data } from "../../database/database";
 import { HiOutlineExternalLink } from "react-icons/hi";
 import { FaGithub } from "react-icons/fa";
 
-
-
 const Portfolio = () => {
   return (
     <PortfolioWrapper>
@@ -38,9 +36,11 @@ const Portfolio = () => {
               <PortfolioItemLink href={item.github} target="_blank">
                 <FaGithub />
               </PortfolioItemLink>
-              <PortfolioItemLinkTwo href={item.link} target="_blank">
-                <HiOutlineExternalLink />
-              </PortfolioItemLinkTwo>
+              {item.link && (
+                <PortfolioItemLinkTwo href={item.link} target="_blank">
+                  <HiOutlineExternalLink />
+                </PortfolioItemLinkTwo>
+              )}
             </PortfolioItemCta>
           </PortfolioItem>
         ))}

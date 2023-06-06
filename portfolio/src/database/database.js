@@ -22,7 +22,7 @@ export const data = [
     description:
       "Aplicação Web desenvolvida com o intuito de consumir a API do YouTube API Data e testar o framework Angular.",
     link: "https://youttubemusic.vercel.app/",
-    github: "https://github.com/leanndrocabral/youtube-music-angular",
+    github: "https://github.com/leanndrocabral/youtube-music",
   },
   {
     id: 3,
@@ -30,9 +30,8 @@ export const data = [
     title: "Crud de Usuários",
     description:
       "API desenvolvida com Nest.js, o intuito é que o usuário possa criar, listar, editar e deletar seu usuário.",
-    link: "https://kennziehub.vercel.app/",
     github:
-      "https://github.com/leanndrocabral/user-crud-nestjs",
+      "https://github.com/leanndrocabral/user-crud",
   },
   {
     id: 4,
@@ -40,9 +39,9 @@ export const data = [
     title: "Lista Telêfonica",
     description:
       "Aplicação Web desenvolvida em Next.js com intuito de registrar contatos.",
-    link: "https://kennzieburger.vercel.app/",
+    link: "https://conntactlist.vercel.app/",
     github:
-      " https://github.com/leanndrocabral/contact-list-nextjs",
+      " https://github.com/leanndrocabral/contact-list",
   },
   {
     id: 5,
@@ -50,9 +49,9 @@ export const data = [
     title: "Kenzie Hub",
     description:
       "Aplicação Web desenvolvida em React e com intuito de registrar tecnlogias Web em módulos.",
-    link: "https://userccrud.vercel.app/",
+    link: "https://kennziehub.vercel.app/",
     github:
-      "https://github.com/leanndrocabral/user-crud-nestjs",
+      "https://github.com/leanndrocabral/kenzie-hub",
   },
   {
     id: 6,
@@ -60,8 +59,8 @@ export const data = [
     title: "Burguer Kenzie",
     description:
       "Aplicação Web desenvolvida em React e com intuito de ser um menu de uma hamburgueria.",
-    link: "https://userccrud.vercel.app/",
+    link: "https://burguerkennzie.vercel.app/",
     github:
-      "https://github.com/leanndrocabral/user-crud-nestjs",
+      "https://github.com/leanndrocabral/burguer-kenzie",
   },
 ];

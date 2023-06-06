@@ -30,7 +30,7 @@ const Contact = () => {
 
     toast.promise(async () => {
       try {
-        await axios.post("https://nodemailer-ec4u.onrender.com/sendemail", {
+        await axios.post("http://localhost:4000/sendemail", {
           from_name: from_name.value,
           email: email.value,
           text: text.value,
