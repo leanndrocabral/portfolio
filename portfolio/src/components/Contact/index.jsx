@@ -30,7 +30,7 @@ const Contact = () => {
 
     toast.promise(async () => {
       try {
-        await axios.post("https://leanndrocabral.vercel.app/sendemail", {
+        await axios.post("https://leanndrocabral-api-email.vercel.app/sendemail", {
           from_name: from_name.value,
           email: email.value,
           text: text.value,
