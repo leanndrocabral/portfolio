@@ -48,7 +48,7 @@ export const data = [
     image: Image05,
     title: "Kenzie Hub",
     description:
-      "Aplicação Web desenvolvida em React e com intuito de registrar tecnlogias Web em módulos.",
+      "Aplicação Web desenvolvida em React e com intuito de registrar tecnologias Web em módulos.",
     link: "https://kennziehub.vercel.app/",
     github:
       "https://github.com/leanndrocabral/kenzie-hub",

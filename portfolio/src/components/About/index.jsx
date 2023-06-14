@@ -53,7 +53,7 @@ const About = () => {
             </AboutContainerContentCard>
           </AboutContainerContentCards>
           <AboutParagraph>
-            Olá, eu sou o Leandro, tenho 20 anos e moro em São Bento do Sapucaí - SP.
+            Olá, eu sou o Leandro, tenho 20 anos e moro em São José dos Campos - SP.
             Sou desenvolvedor há 1 ano e estou sempre buscando aprender, melhorar e manter boas práticas.
             Tenho experiência em construção de API, desenvolvimento de projetos utilizando Django REST Framework, Python, Node.js, Angular, React, Typescript, entre outros.
           </AboutParagraph>
