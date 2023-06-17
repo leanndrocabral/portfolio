@@ -1,9 +1,10 @@
 import Image01 from '../assets/img/wall-e.jpg'
 import Image02 from '../assets/img/youtube-music.jpg'
 import Image03 from '../assets/img/user-crud.jpg'
-import Image04 from '../assets/img/contact-list.jpg'
-import Image05 from '../assets/img/kenzie-hub.jpg'
-import Image06 from '../assets/img/burguer-kenzie.jpg'
+import Image04 from '../assets/img/library-api.jpg'
+import Image05 from '../assets/img/contact-list.jpg'
+import Image06 from '../assets/img/kenzie-hub.jpg'
+import Image07 from '../assets/img/burguer-kenzie.jpg'
 
 export const data = [
   {
@@ -36,6 +37,15 @@ export const data = [
   {
     id: 4,
     image: Image04,
+    title: "Biblioteca API",
+    description:
+      "API desenvolvida com Django REST Framework, o intuito é que o usuário possa criar, listar, editar e deletar livros.",
+    github:
+      "https://github.com/leanndrocabral/library-api",
+  },
+  {
+    id: 5,
+    image: Image05,
     title: "Lista Telêfonica",
     description:
       "Aplicação Web desenvolvida em Next.js com intuito de registrar contatos.",
@@ -44,8 +54,8 @@ export const data = [
       " https://github.com/leanndrocabral/contact-list",
   },
   {
-    id: 5,
-    image: Image05,
+    id: 6,
+    image: Image06,
     title: "Kenzie Hub",
     description:
       "Aplicação Web desenvolvida em React e com intuito de registrar tecnologias Web em módulos.",
@@ -54,8 +64,8 @@ export const data = [
       "https://github.com/leanndrocabral/kenzie-hub",
   },
   {
-    id: 6,
-    image: Image06,
+    id: 7,
+    image: Image07,
     title: "Burguer Kenzie",
     description:
       "Aplicação Web desenvolvida em React e com intuito de ser um menu de uma hamburgueria.",
