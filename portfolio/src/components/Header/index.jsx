@@ -19,9 +19,9 @@ const Header = () => {
   return (
     <HeaderWrapper>
       <HeaderContainer>
-        <FirstText>Olá eu sou</FirstText>
+        <FirstText>Olá, eu sou o</FirstText>
         <SecondText>Leandro Lourenço</SecondText>
-        <ThirdText>Desenvovedor Full Stack</ThirdText>
+        <ThirdText>Desenvolvedor Full Stack</ThirdText>
 
         <CallToAction />
         <Socials />
