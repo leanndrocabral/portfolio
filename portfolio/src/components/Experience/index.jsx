@@ -137,6 +137,7 @@ const Experience = () => {
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
 
+           
           </ExperienceContent>
         </ExperienceContainerFrontEnd>
 
@@ -252,7 +253,18 @@ const Experience = () => {
                 </ExperienceContainerDetailsSecondText>
               </ExperienceContainerDetailsWrapper>
             </ExperienceContainerDetails>
-            
+
+            <ExperienceContainerDetails>
+              <BsPatchCheckFill className="experience__details-icon" />
+              <ExperienceContainerDetailsWrapper>
+                <ExperienceContainerDetailsFirstText>
+                  Docker
+                </ExperienceContainerDetailsFirstText>
+                <ExperienceContainerDetailsSecondText>
+                  Iniciante
+                </ExperienceContainerDetailsSecondText>
+              </ExperienceContainerDetailsWrapper>
+            </ExperienceContainerDetails>
           </ExperienceContent>
         </ExperienceContainerBackEnd>
       </ExperienceContainer>
